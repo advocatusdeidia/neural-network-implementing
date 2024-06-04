@@ -1,0 +1,1 @@
+This code creates and trains a neural network for recognizing handwritten digits using the MNIST dataset. The neural network consists of several convolutional and fully connected layers and utilizes the TensorFlow library for training using the Adam optimization algorithm and the sparse_categorical_crossentropy loss function.
